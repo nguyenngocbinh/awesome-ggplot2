@@ -22,12 +22,14 @@
 
 ## Geometrics
 
+* {[calendR](https://github.com/R-CoderDotCom/calendR)}: Fully customizable ready to print monthly and yearly calendars made with ggplot2
+* {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
+* {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
 * {[ggblur](https://github.com/coolbutuseless/ggblur)}: Blurry Point Geom for ggplot2
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
-* {[ggcal](https://github.com/jayjacobs/ggcal)}: Generate simple calendar plots using ggplot2
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
 * {[ggcor](https://github.com/houyunhuang/ggcor)}: Extended tools for correlation analysis and visualization.
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
@@ -36,9 +38,12 @@
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
 * {[gghalves](https://erocoar.github.io/gghalves/)}: Easy half-half geoms in ggplot2
+* {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
+* {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
+* {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
@@ -50,6 +55,7 @@
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
+* {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
 * {[ggwaffle](https://liamgilbey.github.io/ggwaffle/)}: Creating waffle charts in a ggplot friendly way
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
@@ -60,9 +66,11 @@
 ## Themes and aesthetics
 
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
+* {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
 * {[ggCyberPunk](https://github.com/delabj/ggCyberPunk)}: Working on creating a similar cyberpunk geom for ggplot
 * {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
+* {[ggedit](https://github.com/yonicd/ggedit)}: Interactively edit ggplot layer aesthetics and theme definitions
 * {[ggfittext](https://github.com/wilkox/ggfittext)}: ggplot2 geoms to fit text into boxes
 * {[gghighlight](https://github.com/yutannihilation/gghighlight)}: Highlight points and lines in ggplot2
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
@@ -78,6 +86,7 @@
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
+* {[soilpalettes](https://github.com/kaizadp/soilpalettes)}: R color palettes inspired by soil profiles
 * {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[tvthemes](https://ryo-n7.github.io/tvthemes/)}: ggplot2 themes and palettes based on your favorite TV shows
 * {[urbnthemes](https://urbaninstitute.github.io/urbnthemes/index.html)}: Urban Institute's ggplot2 theme and tools
@@ -115,12 +124,16 @@
 
 ## Data and models
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
+* {[ggdendro](http://andrie.github.io/ggdendro/)}: Tools to extract dendrogram plot data for use with 'ggplot2'
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
+* {[jtools](https://jtools.jacob-long.com/)}: Tools for summarizing/visualizing regressions and other helpful stuff
 * {[lindia](https://github.com/yeukyul/lindia)}: Extension package of linear regression diagonostic plots in ggplot2
+* {[naniar](https://github.com/njtierney/naniar)}: Tidy data structures, summaries, and visualisations for missing data
+* {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 
 # Books
@@ -173,6 +186,7 @@
 
 * Geometrics
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
+  * [Heatmaps in ggplot2](https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/)
   * [Make Multi-point “dumbbell” Plots in ggplot2](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
   * [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
   * [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
